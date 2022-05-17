@@ -1,0 +1,84 @@
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[DebugChecksum]
+Checksum=-470574330
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$}.1508.1@1" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$}.1177.17@1" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$}.299.1" 0 0 0 0 "" 0 ""
+Bp3=_ "STD_CODE" "{$PROJ_DIR$\main.c}.230.7" 0 0 0 0 "" 0 ""
+Bp4=_ "STD_CODE" "{$PROJ_DIR$\MyUart.c}.167.7" 0 0 0 0 "" 0 ""
+Count=5
+[Aliases]
+A0=_ "C:\Users\ASUS\Desktop\LS-HIGH-2018-9-28-11-11\Sensor-stm8l052\Configure.c" ""
+A1=_ "D:\程序版本\AX5043\透传模块\可配置\STM8L_5043_DEMO_0903_26M\main.c" ""
+A2=_ "E:\Project\2018-9-27-LS\2019-03-06\2019-02-25\Sensor-stm8l052\Sensor-stm8l052\main.c" ""
+A3=_ "E:\Project\2018-9-27-LS\漏水保护器高速程序\Sensor-stm8l052(3)\Sensor-stm8l052\main.c" ""
+A4=_ "E:\资料\项目\2017-8-5-LS\soft\Main-stm8l052\list.c" ""
+A5=_ "E:\资料\项目\2017-8-5-LS\soft\Sensor-stm8l052\stm8l15x_it.c" ""
+A6=_ "F:\宁波三胜智慧电子\002罗锰良资料\漏水保护器正式\004程序\8.28\Sensor-stm8l052\Configure.c" ""
+A7=_ "G:\单片机\烧录程序\5043\可配置\STM8L_5043_DEMO_0903_26M\Uart.c" ""
+Count=8
+SuppressDialog=1
+[DebuggerSettings]
+DisableInterruptsWhenStepping=0

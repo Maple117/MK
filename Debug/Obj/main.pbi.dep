@@ -1,0 +1,53 @@
+main.pbi: \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\radio\AX5043.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\radio\Radio.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\effectshow.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\general.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\test.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\battery.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\radio\DlkLyr.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\Uart.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\radio\AppLyr.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\GPIO.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\ystdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\c\stdio.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\myuart.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\sysdata.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\command.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\Configure.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\io_macros.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\iostm8l151k4.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\typedef.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\clock.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\Spi.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\radio\intrinsics.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_wwdg.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_wfe.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_usart.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_tim5.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_tim4.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_tim3.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_tim2.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_tim1.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_syscfg.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_spi.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_rtc.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_rst.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_pwr.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_iwdg.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_itc.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_irtim.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_gpio.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_flash.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_exti.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_clk.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_conf.h \
+  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\main.c

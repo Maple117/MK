@@ -1,0 +1,9 @@
+---- AX5043_XTALCAP Matches (2 in 2 files) ----
+AX5043.h:489
+#define AX5043_XTALCAP                  0x00
+
+
+Radio.c:298
+    { REG_AX5043_XTALCAP        , AX5043_XTALCAP      },
+    { REG_AX5043_0xF00          , AX5043_0xF00        },
+    { REG_AX5043_REF            , AX5043_REF          },
