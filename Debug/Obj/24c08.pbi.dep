@@ -1,27 +1,13 @@
-24c08.pbi: \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\24c08.c \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general/24c08.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_conf.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_clk.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_exti.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_flash.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_gpio.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_irtim.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_itc.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_iwdg.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_pwr.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_rst.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_rtc.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_spi.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_syscfg.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim1.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim2.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim3.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim4.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim5.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_usart.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_wfe.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_wwdg.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\radio\intrinsics.h
+24c08.pbi: D:\MK\Device\general\24c08.c D:\MK\Device\general/24c08.h \
+  D:\MK\Inc\stm8l15x.h D:\MK\Inc/stm8l15x_conf.h D:\MK\Inc/stm8l15x.h \
+  D:\MK\Inc/stm8l15x_clk.h D:\MK\Inc/stm8l15x_exti.h \
+  D:\MK\Inc/stm8l15x_flash.h D:\MK\Inc/stm8l15x_gpio.h \
+  D:\MK\Inc/stm8l15x_irtim.h D:\MK\Inc/stm8l15x_itc.h \
+  D:\MK\Inc/stm8l15x_iwdg.h D:\MK\Inc/stm8l15x_pwr.h \
+  D:\MK\Inc/stm8l15x_rst.h D:\MK\Inc/stm8l15x_rtc.h \
+  D:\MK\Inc/stm8l15x_spi.h D:\MK\Inc/stm8l15x_syscfg.h \
+  D:\MK\Inc/stm8l15x_tim1.h D:\MK\Inc/stm8l15x_tim2.h \
+  D:\MK\Inc/stm8l15x_tim3.h D:\MK\Inc/stm8l15x_tim4.h \
+  D:\MK\Inc/stm8l15x_tim5.h D:\MK\Inc/stm8l15x_usart.h \
+  D:\MK\Inc/stm8l15x_wfe.h D:\MK\Inc/stm8l15x_wwdg.h \
+  D:\MK\Device\radio\intrinsics.h

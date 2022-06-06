@@ -94,70 +94,170 @@ void ShowTask(void)
 
 void Battryshow(void)
 {
-    if(sysdata.Electricityflag>0)
-    { 
-      
-     BatteryCheckOpen();//开启电量检测
-     if(sysdata.Electricityflag==1)
-     {
-       Battrytime=1;
-       sysdata.Electricityflag=2;
-     }
-     if(sysdata.Electricityflag==3)
-     {
+  if(sysdata.Electricityflag>0)
+  { 
+    u8 i=0;
+    BatteryCheckOpen();//开启电量检测
+    if(sysdata.Electricityflag==1)
+    {
+      Battrytime=1;
+      sysdata.Electricityflag=2;
+    }
+    if(sysdata.Electricityflag==3)
+    {
       sysdata.Electricityflag=0;
       BatteryCheckClose();
       switch(sysdata.BattryAlarm)
       {
-       case 0:
-         LEDSet(10,2);
-         LEDSet(8,2);
-       break;
-       case 3:
-         LEDSet(10,2);
-         LEDSet(6,2);         
-       break;
-       case 4:
-         LEDSet(10,2);
-         LEDSet(4,2);         
-       break;
-       case 1:
-         LEDSet(10,2);
-         LEDSet(2,2);         
-       break;
-        case 2:
-         LEDSet(10,2);
-         LEDSet(3,2);          
-       break;      
-       default: break;            
+      case 0:
+        //         LEDSet(10,2);
+        //         LEDSet(8,2);
+        for(i=0;i<2;i++)
+        {
+          ledshow(10,on);
+          Delayms(200); 
+          ledshow(10,off);
+          Delayms(200);
+          ledshow(8,on);
+          Delayms(200);
+          ledshow(8,off);
+          Delayms(200);         
+        }
+        break;
+      case 3:
+        //         LEDSet(10,2);
+        //         LEDSet(6,2); 
+        for(i=0;i<2;i++)
+        {
+          ledshow(10,on);
+          Delayms(200);
+          ledshow(10,off);
+          Delayms(200);
+          ledshow(6,on);
+          Delayms(200); 
+          ledshow(6,off);
+          Delayms(200);        
+        }         
+        break;
+      case 4:
+        //         LEDSet(10,2);
+        //         LEDSet(4,2);
+        for(i=0;i<2;i++)
+        {
+          ledshow(10,on);
+          Delayms(200); 
+          ledshow(10,off);
+          Delayms(200);
+          ledshow(4,on);
+          Delayms(200);
+          ledshow(4,off);
+          Delayms(200);        
+        }         
+        break;
+      case 1:
+        //         LEDSet(10,2);
+        //         LEDSet(2,2); 
+        for(i=0;i<2;i++)
+        {
+          ledshow(10,on);
+          Delayms(200); 
+          ledshow(10,off);
+          Delayms(200);
+          ledshow(2,on);
+          Delayms(200);
+          ledshow(2,off);
+          Delayms(200);        
+        }         
+        break;
+      case 2:
+        //         LEDSet(10,2);
+        //         LEDSet(3,2); 
+        for(i=0;i<2;i++)
+        {
+          ledshow(10,on);
+          Delayms(200); 
+          ledshow(10,off);
+          Delayms(200);
+          ledshow(3,on);
+          Delayms(200);
+          ledshow(3,off);
+          Delayms(200);         
+        }         
+        break;      
+      default: break;            
       }
-     }
     }
- }
+  }
+}
 void RSSIshow(void)
 {
   if(sysdata.RSSIFLAG==2)
   {
+    u8 i=0;
     sysdata.RSSIFLAG=0;
     if(sysdata.RSSIDATA<149)
     {
-         LEDSet(1,2);
-         LEDSet(9,2);         
+      //         LEDSet(1,2);
+      //         LEDSet(9,2);
+      for(i=0;i<2;i++)
+      {
+        ledshow(1,on);
+        Delayms(200);
+        ledshow(1,off);
+        Delayms(200);
+        ledshow(9,on);
+        Delayms(200);
+        ledshow(9,off);
+        Delayms(200);        
+      }         
     }
     else if(sysdata.RSSIDATA<170)
     {
-         LEDSet(1,2);
-         LEDSet(6,2); 
+      //         LEDSet(1,2);
+      //         LEDSet(6,2);
+      for(i=0;i<2;i++)
+      {
+        ledshow(1,on);
+        Delayms(200); 
+        ledshow(1,off);
+        Delayms(200);
+        ledshow(6,on);
+        Delayms(200);
+        ledshow(6,off);
+        Delayms(200);        
+      }         
     }
     else if(sysdata.RSSIDATA<202)
     {
-         LEDSet(1,2);
-         LEDSet(4,2);       
+      //         LEDSet(1,2);
+      //         LEDSet(4,2); 
+      for(i=0;i<2;i++)
+      {
+        ledshow(1,on);
+        Delayms(200); 
+        ledshow(1,off);
+        Delayms(200);
+        ledshow(4,on);
+        Delayms(200); 
+        ledshow(4,off);
+        Delayms(200);        
+      }         
     }
     else if(sysdata.RSSIDATA>201)
     {
-         LEDSet(1,2);
-         LEDSet(2,2);       
+      //         LEDSet(1,2);
+      //         LEDSet(2,2); 
+      for(i=0;i<2;i++)
+      {
+        ledshow(1,on);
+        Delayms(200);
+        ledshow(1,off);
+          Delayms(200);
+        ledshow(2,on);
+        Delayms(200);
+        ledshow(2,off);
+        Delayms(200);         
+      }         
     }
     sysdata.RSSIDATA=0;
   }
@@ -165,7 +265,7 @@ void RSSIshow(void)
 }
 
 
-  
+
 
 
 

@@ -341,7 +341,7 @@ INTERRUPT_HANDLER(TIM2_UPD_OVF_TRG_BRK_USART2_TX_IRQHandler, 19)
     if(sysdata.c10 == 10)
     {    
 
-      RSSIshow();
+
       sysdata.c10 = 0;
       sysdata.f10ms = 1;
       sysdata.f10ms_SP = 1;

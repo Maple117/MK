@@ -1,32 +1,17 @@
-clock.pbi: \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general\clock.c \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_tim1.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_conf.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_clk.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_exti.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_flash.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_gpio.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_irtim.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_itc.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_iwdg.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_pwr.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_rst.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_rtc.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_spi.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_syscfg.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim1.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim2.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim3.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim4.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_tim5.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_usart.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_wfe.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc/stm8l15x_wwdg.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\radio\intrinsics.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x_clk.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general/clock.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Device\general/Typedef.h \
-  C:\Users\LBJ\Desktop\WaterSensor\20220517MK\Inc\stm8l15x.h \
+clock.pbi: D:\MK\Device\general\clock.c D:\MK\Inc\stm8l15x_tim1.h \
+  D:\MK\Inc/stm8l15x.h D:\MK\Inc/stm8l15x_conf.h \
+  D:\MK\Inc/stm8l15x_clk.h D:\MK\Inc/stm8l15x_exti.h \
+  D:\MK\Inc/stm8l15x_flash.h D:\MK\Inc/stm8l15x_gpio.h \
+  D:\MK\Inc/stm8l15x_irtim.h D:\MK\Inc/stm8l15x_itc.h \
+  D:\MK\Inc/stm8l15x_iwdg.h D:\MK\Inc/stm8l15x_pwr.h \
+  D:\MK\Inc/stm8l15x_rst.h D:\MK\Inc/stm8l15x_rtc.h \
+  D:\MK\Inc/stm8l15x_spi.h D:\MK\Inc/stm8l15x_syscfg.h \
+  D:\MK\Inc/stm8l15x_tim1.h D:\MK\Inc/stm8l15x_tim2.h \
+  D:\MK\Inc/stm8l15x_tim3.h D:\MK\Inc/stm8l15x_tim4.h \
+  D:\MK\Inc/stm8l15x_tim5.h D:\MK\Inc/stm8l15x_usart.h \
+  D:\MK\Inc/stm8l15x_wfe.h D:\MK\Inc/stm8l15x_wwdg.h \
+  D:\MK\Device\radio\intrinsics.h D:\MK\Inc\stm8l15x_clk.h \
+  D:\MK\Device\general/clock.h D:\MK\Device\general/Typedef.h \
+  D:\MK\Inc\stm8l15x.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc\iostm8l151k4.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3_2\stm8\inc/io_macros.h

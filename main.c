@@ -79,7 +79,8 @@ void main(void)
         CommandTask();          //数据处理服务
       }
     }
-    Battryshow();  
+    Battryshow(); 
+    RSSIshow();
     if(sysdata.f10ms_SP)
     {
       sysdata.f10ms_SP = 0;

@@ -24,7 +24,7 @@
         <ShowSource>1</ShowSource>
     </TraceHelper>
     <DebugChecksum>
-        <Checksum>932307064</Checksum>
+        <Checksum>2317090659</Checksum>
     </DebugChecksum>
     <DisAssemblyWindow>
         <NumStates>_ 1</NumStates>
@@ -96,8 +96,8 @@
         <Bp4>_ "STD_CODE" "{$PROJ_DIR$\stm8l15x_it.c}.820.5" 0 0 0 0 "" 0 ""</Bp4>
         <Bp5>_ "STD_CODE" "{$PROJ_DIR$\command.c}.334.1" 0 0 0 0 "" 0 ""</Bp5>
         <Bp6>_ "STD_CODE" "{$PROJ_DIR$\Device\general\command.c}.380.9" 0 0 0 0 "" 0 ""</Bp6>
-        <Bp7>_ "STD_CODE" "{$PROJ_DIR$\Device\general\effectshow.c}.141.5" 0 0 0 0 "" 0 ""</Bp7>
-        <Bp8>_ "STD_CODE" "{$PROJ_DIR$\Device\general\general.c}.110.5" 0 0 0 0 "" 0 ""</Bp8>
+        <Bp7>_ "STD_CODE" "{$PROJ_DIR$\Device\general\effectshow.c}.197.5" 0 0 0 0 "" 0 ""</Bp7>
+        <Bp8>_ "STD_CODE" "{$PROJ_DIR$}.110.5" 0 0 0 0 "" 0 ""</Bp8>
         <Count>9</Count>
     </Breakpoints>
     <Aliases>
